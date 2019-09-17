@@ -19,7 +19,7 @@ The big rectangle in the top-left corner represents four seasons by diffetent co
 
 Retinal Variables: size, value, hue
 #### Sketch 02
-Two circles are the visual presentation of Earth and the Moon. The Moon is in synchronous rotation as it orbits Earth; it rotates about its axis in about the same time it takes to orbit Earth. The color of Earth conveys the change of four season. The ratio of two colors on the Moon tracks lunar phase in the whole year.
+Two circles are the visual presentation of Earth and the Moon. The Moon is in [synchronous rotation](https://en.wikipedia.org/wiki/Tidal_locking) as it [orbits](https://en.wikipedia.org/wiki/Orbit_of_the_Moon) Earth; it rotates about its axis in about the same time it takes to orbit Earth. The color of Earth conveys the change of four season. The ratio of two colors on the Moon tracks lunar phase in the whole year.
 
 Retinal Variables: position, size, value, hue, orientation
 #### Sketch 03
