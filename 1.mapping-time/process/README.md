@@ -19,7 +19,7 @@ The big rectangle in the top-left corner represents four seasons by diffetent co
 
 Retinal Variables: size, value, hue
 #### Sketch 02
-Three bars represent hour, minute, and second in the horizontal direction. The percemtage of black and white colors translate 24 hours into visual language. The horizontal gradient is an expression of sunrise and sunset in the nature.
+Two circles are the visual presentation of Earth and the Moon. The Moon is in synchronous rotation as it orbits Earth; it rotates about its axis in about the same time it takes to orbit Earth. The color of Earth conveys the change of four season. The ratio of two colors on the Moon tracks lunar phase in the whole year.
 
 Retinal Variables: position, size, value, hue, orientation
 #### Sketch 03
