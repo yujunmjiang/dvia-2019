@@ -12,3 +12,5 @@ Retinal Variables: position, size, value
 The concentric circles are the visual presention of time. Each circle's rotation speed conveys the relationship between hour, minute, and second. The color choice was inspired by the natual light.
 
 Retinal Variables: size, value, orientation
+## Weekly Assignment 03
+![illustrative images](./sketch-wa3.jpg)
