@@ -1,7 +1,7 @@
 ## Weekly Assignment 02
 ![illustrative images](./sketch-wa2.jpg)
 #### Sketch 01
-Round shape with gradient shows 24 hours in one day. The transition of black-to-white and white-to-black will help users to distinguish day time and night time. The inspiriation comes from natural sunlight and round shape represents sky in the traditional Chinese culture.
+The round shape with gradient shows 24 hours in one day. The transition of black-to-white and white-to-black will help users to distinguish day time and night time. The inspiriation comes from natural sunlight and round shape represents sky in the traditional Chinese culture.
 
 Retinal Variables: size, value
 #### Sketch 02
@@ -19,10 +19,10 @@ The big rectangle in the top-left corner represents four seasons by diffetent co
 
 Retinal Variables: size, value, hue
 #### Sketch 02
-Two circles are the visual presentation of Earth and the Moon. The Moon is in [synchronous rotation](https://en.wikipedia.org/wiki/Tidal_locking) as it [orbits](https://en.wikipedia.org/wiki/Orbit_of_the_Moon) Earth; it rotates about its axis in about the same time it takes to orbit Earth. The color of Earth conveys the change of four season. The ratio of two colors on the Moon tracks lunar phase in the whole year.
+Two circles are the visual presentation of Earth and the Moon. The Moon is in [synchronous rotation](https://en.wikipedia.org/wiki/Tidal_locking) as it [orbits](https://en.wikipedia.org/wiki/Orbit_of_the_Moon) Earth; it rotates about its axis in about the same time it takes to orbit Earth. The color of Earth conveys the change of four seasons. The ratio of two colors on the Moon tracks lunar phase in the whole year.
 
 Retinal Variables: position, size, value, hue, orientation
 #### Sketch 03
-The concentric circles are the visual presention of time. Each circle's rotation speed conveys the relationship between hour, minute, and second. The color choice was inspired by the natual light.
+As the ispiration base on sketch 01, the combinatiion of position, color, and orientation shows how 24 hours change in the triangle (both right and left sides). Beyond the daytime and nighttime, the another triangle displays four seasons. Also, the circle in the middle tracks lunar phase as well.
 
-Retinal Variables: value, hue, orientation
+Retinal Variables: position, value, hue, orientation
