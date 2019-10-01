@@ -29,7 +29,7 @@ function draw() {
   }
 
 
-    // use triangle (and upsidown triangle) to represent seasons
+      // use triangle (and upsidown triangle) to represent seasons
   if (now.season == 1){
       fill(57, 181, 74)
       triangle(80, 225, 130, 140, 180, 225)
@@ -50,13 +50,13 @@ function draw() {
       triangle(220, 140, 270, 225, 320, 140)
   }
 
-    // use arc to represent moon
+      // use arc to represent moon
   if (now.moon){
       fill(251, 190, 23)
       arc(200, 190, 40, 40, 0, PI + moonPercent)
   }
 
-    // use rectangle (cover triangle) to represent time
+      // use rectangle (cover triangle) to represent time
   translate(0, - (weekdayHeight + 85))
 
   if (now.season == 1, 2){
