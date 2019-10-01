@@ -19,7 +19,7 @@ function draw() {
   background(255)
   noStroke()
 
-  // measure the current time & calculate the width in pixwls of each bar
+  // measure the current time & calculate the width in pixels of each bar
   var now = clock ()
   if (discrete) {
     // the map() function lets us *normalize* a value from a starting range then *project* it into another range
