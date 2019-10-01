@@ -8,6 +8,6 @@ Retinal Variables: size, value, hue
 #### Revised Design
 ![illustrative images](./date-1-revised-1.png)
 
-In the revised design, I used different hues in the big rectangle to convey four seasons. The small rectangles are matched with each day in one week as a cycle. Each day has been devided into a.m. and p.m. by two colors
+In the revised design, I used different hues in the big rectangle to convey four seasons. The small rectangles are matched with each day in one week as a cycle. Each day has been devided into a.m. and p.m. by two colors.
 
 ![illustrative images](./date-1-revised-2.png)
