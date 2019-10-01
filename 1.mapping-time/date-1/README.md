@@ -1,9 +1,9 @@
 #### Sketch
 ![illustrative images](./date-1-original.png)
 
-Three bars represent hour, minute, and second in the horizontal direction. The percentage of black and white colors translate 24 hours into visual language. The horizontal gradient is an expression of sunrise and sunset in the nature.
+The big rectangle in the top-left corner represents four seasons by diffetent color in one year. The rest of seven small isometrical rectangle calculates week day and weekend as a loop. Meanwhile, the color in each small rectangle devides daytime and nighttime in two colors.
 
-Retinal Variables: position, size, value
+Retinal Variables: size, value, hue
 
 #### Revised Design
 ![illustrative images](./date-1-revised-1.png)
