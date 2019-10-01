@@ -8,6 +8,6 @@ Retinal Variables: position, size, value, hue, orientation
 #### Revised Design
 ![illustrative images](./date-2-revised-1.png)
 
-In the revised design, I used different hues in the big rectangle to convey four seasons. The small rectangles are matched with each day in one week as a cycle. Each day has been devided into a.m. and p.m. by two colors.
+In the revised design, I used both size and hue to represent Earth and Moon. The background color devided daytime and nighttime in two colors. The orientation of Moon matched with lunar phase in each month. Also, the orbit's colors visualized four seasons by hues.
 
 ![illustrative images](./date-2-revised-2.png)
