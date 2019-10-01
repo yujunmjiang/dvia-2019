@@ -1,9 +1,9 @@
 #### Sketch
 ![illustrative images](./date-3-original.png)
 
-Two circles are the visual presentation of Earth and the Moon. The Moon is in [synchronous rotation](https://en.wikipedia.org/wiki/Tidal_locking) as it [orbits](https://en.wikipedia.org/wiki/Orbit_of_the_Moon) Earth; it rotates about its axis in about the same time it takes to orbit Earth. The color of Earth conveys the change of four seasons. The ratio of two colors on the Moon tracks lunar phase in the whole year.
+As the ispiration base on date 01, the combinatiion of position, color, and orientation shows how 24 hours change in the triangle (both right and left sides). Beyond the daytime and nighttime, the another triangle displays four seasons. Also, the circle in the middle tracks lunar phase as well.
 
-Retinal Variables: position, size, value, hue, orientation
+Retinal Variables: position, value, hue, orientation
 
 #### Revised Design
 ![illustrative images](./date-3-revised-1.png)
