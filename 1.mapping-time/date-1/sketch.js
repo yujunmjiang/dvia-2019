@@ -1,6 +1,6 @@
 var x = 20  // starting x position to draw
 var y = 20  // starting y position to draw
-var bigBarHeight = 265// height of big bar
+var bigBarHeight = 265 // height of big bar
 var smallBarHeight = 75 // height of small bar
 var bigBarWidth =265 // maximum width of big bar (the actual width will always be ≤ this)
 var smallBarWidth = 75 // maximum width of small bar (the actual width will always be ≤ this)
