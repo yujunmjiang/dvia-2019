@@ -8,6 +8,6 @@ Retinal Variables: position, value, hue, orientation
 #### Revised Design
 ![illustrative images](./date-3-revised-1.png)
 
-In the revised design, I used both size and hue to represent Earth and Moon. The background color devided daytime and nighttime in two colors. The orientation of Moon matched with lunar phase in each month. Also, the orbit's colors visualized four seasons by hues.
+In the revised design, I devided each year in the first and second half by the orientation of triangle. Meanwhile, four different colors matched seasons in the triangle (both right and left sides). The percent of circle in the middle conveyed lunar phase in each month.
 
 ![illustrative images](./date-3-revised-2.png)
