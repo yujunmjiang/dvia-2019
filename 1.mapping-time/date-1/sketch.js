@@ -30,6 +30,7 @@ function draw() {
     monthHeight = bigBarHeight * now.progress.year
     hoursHeight = smallBarHeight * now.progress.day
   }
+  
       // Seasons bar
   if (now.season == 1){
       fill(57, 181, 74)
