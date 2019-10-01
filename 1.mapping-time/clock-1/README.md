@@ -7,3 +7,5 @@ Retinal Variables: size, value
 
 #### Revised Design
 ![illustrative images](./clock-1-revised.png)
+
+In the revised design, I used one of retinal vatiables (grey) value to represent the differences between hour, minute, and second. Meanwhile, the size of each circle shows the current progress of time.
