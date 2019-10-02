@@ -9,6 +9,7 @@ For this project, the data I will be working with are the numerical aspects of t
 As the ispiration base on date 01, the combinatiion of position, color, and orientation shows how 24 hours change in the triangle (both right and left sides). Beyond the daytime and nighttime, the another triangle displays four seasons. Also, the circle in the middle tracks lunar phase as well.
 
 Time Units: season, a.m., p.m., hour, minute, second
+
 Retinal Variables: position, value, hue, orientation
 
 ![illustrative images](./season-dial-nighttime.png)
