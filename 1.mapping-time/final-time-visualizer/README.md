@@ -6,10 +6,10 @@ For this project, the data I will be working with are the numerical aspects of t
 
 ![illustrative images](./season-dial-daytime.png)
 
-This final version of the hygrid clock `Time Visualizer` was inspired by multiple elements such us solar system, orbital revolution, the representative of each season, and dial plate. The `arc()` creates three concentric circles to track the progress of hour, minute, and second. Meanwhile, each arc has an unique `alpha` value with RGB color mode to distinguish time units visually.
+This final version of the hygrid clock `Time Visualizer` was inspired by multiple elements such us solar system, orbital revolution, the representative of each season, and dial plate. The `arc()` creates three concentric circles to track the progress of hour, minute, and second. Meanwhile, each arc has an unique `alpha` value with RGB color mode to distinguish time units visually. The round shape with solid colors in the middle expresses four seasons during the whole year. The background color separates daytime and nighttime into two colors as well.
 
 Time Units: season, a.m., p.m., hour, minute, second
 
-Retinal Variables: position, value, hue, orientation
+Retinal Variables: shape, value, hue, orientation
 
 ![illustrative images](./season-dial-nighttime.png)
