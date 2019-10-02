@@ -6,7 +6,7 @@ For this project, the data I will be working with are the numerical aspects of t
 
 ![illustrative images](./season-dial-daytime.png)
 
-As the ispiration base on date 01, the combinatiion of position, color, and orientation shows how 24 hours change in the triangle (both right and left sides). Beyond the daytime and nighttime, the another triangle displays four seasons. Also, the circle in the middle tracks lunar phase as well.
+This final version of the hygrid clock 'Time Visualizer' was inspired by multiple elements such us solar system, orbital revolution, the representative of each season, and dial plate.
 
 Time Units: season, a.m., p.m., hour, minute, second
 
