@@ -1,5 +1,4 @@
-## Process
-
-Description of the contents of this folder, a prose description of your ideas for how to represent
-the nuclear testing time series, and links to external data sources you'll be incorporating into
-the project.
+## Weekly Assignment 02
+![illustrative images](./Picture1.png)
+![illustrative images](./Picture2.png)
+![illustrative images](./Picture3.png)
