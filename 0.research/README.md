@@ -1,1 +1,2 @@
-After presenting, commit a PDF of your slides here with a filename of the form `firstname_researchSubject.pdf`.
+## Catalogtree ##
+Catalogtree is a multidisciplinary design studio based in Arnhem (NL) and Berlin (DE). It was founded in 2001 by Daniel Gross and Joris Maltha who met at [Werkplaats Typografie](https://www.werkplaatstypografie.org/). Nina Bender joined the studio in 2011. The studio works continuously on commissioned and self initiated projects. Highly interested in self-organising systems they believe in 'Form Equals Behaviour'. Experimental tool-making, programming, typography and the visualization of quantitative data are part of their daily routine.
