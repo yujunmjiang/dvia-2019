@@ -25,6 +25,11 @@
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/the-mata-rankings.jpg" width="50%"/>
 
+**[94 ELEMENTS](https://www.catalogtree.net/projects/94_elements?t=chemical)** - August 2012
+- Series of prints by using the real elements iron, copper and sulfur as pigments
+
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/94-elements.jpg" width="50%"/>
+
 **[ALL THE DATA YOU CAN EAT](https://www.catalogtree.net/projects/all_the_data_you_can_eat?t=information_design)** - October 2013
 - Infographics based on the online recipe database FOOD NETWORK for WIRED magazine
 - Four of them had interactive versions online
