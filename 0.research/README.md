@@ -15,12 +15,12 @@
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/flock-in-diplomats.jpg" width="50%"/>
 
-- The work [Flocking Diplomats](https://www.catalogtree.net/projects/flocking_diplomats?t=new_york) is in the collection of the Cooper Hewitt, Smithsonian Museum of Design
+- The work [FLOCKING DIPLOMATS](https://www.catalogtree.net/projects/flocking_diplomats?t=new_york) is in the collection of the Cooper Hewitt, Smithsonian Museum of Design
 - Bin-packing a book design, etching chladni patterns and auto-detecting helipads in satellite footage of São Paulo
 
 ## Projects ##
 
-**[All the Data You Can Eat](https://www.catalogtree.net/projects/all_the_data_you_can_eat?t=information_design)** - October 2013
+**[ALL THE DATA YOU CAN EAT](https://www.catalogtree.net/projects/all_the_data_you_can_eat?t=information_design)** - October 2013
 - Infographics based on the online recipe database FOOD NETWORK for WIRED magazine
 - Four of them had interactive versions online
 - In collaboration with Systemantics (visualization development)
