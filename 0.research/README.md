@@ -20,6 +20,9 @@
 
 ## Projects ##
 
+**[THE META RANKINGS](https://www.catalogtree.net/projects/the_meta_rankings?t=information_design)** - May 2007
+- Charts for Architect Magazine, Washington D.C. (US) on how architectural power is measured and honored
+
 **[ALL THE DATA YOU CAN EAT](https://www.catalogtree.net/projects/all_the_data_you_can_eat?t=information_design)** - October 2013
 - Infographics based on the online recipe database FOOD NETWORK for WIRED magazine
 - Four of them had interactive versions online
