@@ -2,7 +2,7 @@
 
 ![illustrative images](./daniel-and-joris.jpg)
 
-## Backgound ##
+## About ##
 
 - Multidisciplinary design studio based in Arnhem (NL) and Berlin (DE)
 - Founded in 2001 by Daniel Gross and Joris Maltha who met at [Werkplaats Typografie](https://www.werkplaatstypografie.org/)
