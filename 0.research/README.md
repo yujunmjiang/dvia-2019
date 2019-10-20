@@ -11,4 +11,4 @@
 - Highly interested in self-organising systems they believe in 'Form Equals Behaviour'
 - Experimental tool-making, programming, typography and the visualization of quantitative data
 
-## Recent ##
+## Recent Work ##
