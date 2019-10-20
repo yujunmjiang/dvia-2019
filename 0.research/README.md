@@ -13,5 +13,7 @@
 
 ## Recent Work ##
 
+![illustrative images](./flock-in-diplomats-01.jpg)
+
 - The work of Catalogtree is in the collection of the Cooper Hewitt, Smithsonian Museum of Design
 - Bin-packing a book design, etching chladni patterns and auto-detecting helipads in satellite footage of São Paulo
