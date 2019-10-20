@@ -15,5 +15,5 @@
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/flock-in-diplomats-01.jpg" width="50%"/>
 
-- The work of Catalogtree is in the collection of the Cooper Hewitt, Smithsonian Museum of Design
+- The work [Flocking Diplomats](https://www.catalogtree.net/projects/flocking_diplomats?t=new_york) is in the collection of the Cooper Hewitt, Smithsonian Museum of Design
 - Bin-packing a book design, etching chladni patterns and auto-detecting helipads in satellite footage of São Paulo
