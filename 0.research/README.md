@@ -39,7 +39,7 @@
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/all-the-data-you-can-eat.jpg" width="50%"/>
 
 **[LANDSCAPE AND ENERGY](https://www.catalogtree.net/projects/landscape_and_energy?t=atlas)** - July 2014
-- Book design for HNS landscape architects
+- Book design for [HNS](http://www.hnsland.nl/nl/) landscape architects
 - About the effects of the transition from fossil fuels to renewable energy on our environment
 - Two editions: Dutch and English
 
