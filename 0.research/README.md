@@ -20,4 +20,7 @@
 
 ## Projects ##
 
-**All the Data You Can Eat**
+**All the Data You Can Eat** - October 2013
+Infographics based on the online recipe database FOOD NETWORK for WIRED magazine
+Four of them had interactive versions online
+In collaboration with Systemantics (visualization development)
