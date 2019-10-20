@@ -1,6 +1,6 @@
 ## Catalogtree ##
 
-<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/daniel-and-joris.jpg" alt="daniel-and-joris" width="50%"/>
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/daniel-and-joris.jpg" width="50%"/>
 
 ## About ##
 
