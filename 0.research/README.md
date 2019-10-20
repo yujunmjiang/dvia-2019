@@ -42,3 +42,5 @@
 - Book design for HNS landscape architects
 - About the effects of the transition from fossil fuels to renewable energy on our environment
 - Two editions: Dutch and English
+
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/landscape-and-energy.jpg" width="50%"/>
