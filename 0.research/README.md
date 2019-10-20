@@ -24,3 +24,5 @@
 - Infographics based on the online recipe database FOOD NETWORK for WIRED magazine
 - Four of them had interactive versions online
 - In collaboration with Systemantics (visualization development)
+
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/all-the-data-you-can-eat.jpg" width="50%"/>
