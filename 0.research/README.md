@@ -27,7 +27,7 @@
 
 **[94 ELEMENTS](https://www.catalogtree.net/projects/94_elements?t=chemical)** - August 2012
 - Series of prints by using the real elements iron, copper and sulfur as pigments
-- [94 Elements' Official Website](http://www.94elements.com/)
+- [94elements.com](http://www.94elements.com/)
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/94-elements.jpg" width="50%"/>
 
