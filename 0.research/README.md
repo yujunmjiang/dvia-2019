@@ -44,3 +44,6 @@
 - Two editions: Dutch and English
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/landscape-and-energy.jpg" width="50%"/>
+
+**[ROSSELLA BISCOTTI (KREFELD)](https://www.catalogtree.net/projects/rossella_biscotti_krefeld?t=information_design)** - September 2014
+- Programming and data visualisation for artist Rossella Biscotti's installation at Museum Haus Esters in Krefeld, Germany
