@@ -55,4 +55,9 @@
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/playing-with-fire.jpg" width="50%"/>
 
+**[THE WEALTH REPORT 2017](https://www.catalogtree.net/projects/the_wealth_report_2017?t=map)** - February 2017
+- A selection of maps and graphics for ‘The Wealth Report 2017’ published by Knight Frank, London (UK)
+
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/the-wealth-report-2017.png" width="50%"/>
+
 ## Questions ##
