@@ -68,3 +68,4 @@
 
 ## Questions ##
 - Will self-organising systems help us translate data by visual language?
+- Do you think data visualization should be aesthetical, experimental, or functional?
