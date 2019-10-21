@@ -25,6 +25,12 @@
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/the-mata-rankings.jpg" width="50%"/>
 
+**[21 BOTS](https://www.catalogtree.net/projects/21_bots?t=bug)** - April 2012
+- The behaviour of a single entity does not predict the behaviour of the swarm as a whole
+- The swarm is an organism in itself
+
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/21-bots.jpg" width="50%"/>
+
 **[94 ELEMENTS](https://www.catalogtree.net/projects/94_elements?t=chemical)** - August 2012
 - Series of prints by using the real elements iron, copper and sulfur as pigments
 - [94elements.com](http://www.94elements.com/)
