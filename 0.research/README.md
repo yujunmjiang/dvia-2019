@@ -49,3 +49,8 @@
 - Programming and data visualisation for artist Rossella Biscotti's installation at Museum Haus Esters in Krefeld, Germany
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/rossella-biscotti.jpg" width="50%"/>
+
+**[PLAYING WITH FIRE](https://www.catalogtree.net/projects/playing_with_fire?t=information_design)** - November 2015
+- Various graphics on Home Fires in the US for the November Issue of BUILDER Magazine, Washington D.C. (US)
+
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/playing-with-fire.jpg" width="50%"/>
