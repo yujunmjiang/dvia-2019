@@ -12,4 +12,5 @@
 
 ## Weekly Assignment 07
 
-- Find the external data source I will be using for your ‘so what’ and ‘compared to what’ variables and convert it to spreadsheet for
+- Find the external data source I will be using for my variables and convert it to spreadsheet
+- Three sketches that show different options for merging the testing data with my external data source
