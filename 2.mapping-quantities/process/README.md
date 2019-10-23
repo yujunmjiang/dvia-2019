@@ -11,3 +11,5 @@
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/2.mapping-quantities/process/country-sou.jpg" width="50%"/>
 
 ## Weekly Assignment 07
+
+- Find the external data source I will be using for your ‘so what’ and ‘compared to what’ variables and convert it to spreadsheet for
