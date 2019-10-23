@@ -1,4 +1,4 @@
-## Weekly Assignment 02
+## Weekly Assignment 06
 
 - Generate three visualizations based on the spreadsheet data using either Google Sheets itself or Microsoft Excel 
 - Three sketches exploring ways in which I could represent the nuclear testing data without using a map
