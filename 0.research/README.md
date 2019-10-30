@@ -15,7 +15,7 @@
 
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/flock-in-diplomats.jpg" width="50%"/>
 
-- The work [Flocking Diplomats](https://www.catalogtree.net/projects/flocking_diplomats?t=new_york) (January 2008) is in the [collection](https://collection.cooperhewitt.org/people/68738123/) of the Cooper Hewitt, Smithsonian Museum of Design
+- The work [Flocking Diplomats](https://collection.cooperhewitt.org/people/68738123/) (January 2008) is in the [collection](https://collection.cooperhewitt.org/people/68738123/) of the Cooper Hewitt, Smithsonian Museum of Design
 - Bin-packing a book design, etching chladni patterns and auto-detecting helipads in satellite footage of São Paulo
 
 ## Projects ##
