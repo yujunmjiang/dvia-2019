@@ -68,6 +68,6 @@
 <img src="https://github.com/yujunmjiang/dvia-2019/blob/master/0.research/the-wealth-report-2017.png" width="50%"/>
 
 ## Questions ##
-- Will self-organising systems help us translate data by visual language?
+- Will self-organising systems help us to translate data by visual language?
 - Do you think data visualization should be aesthetical, experimental, or functional?
 - Does “don’t make me think” work?
