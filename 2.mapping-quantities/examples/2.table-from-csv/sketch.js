@@ -24,6 +24,8 @@ function setup(){
   fill(30)
   noStroke()
 
+  var palette = Brewer.qualitative('Setl', table.columns)
+
   var x = 200
   var y = 100
   var rowHeight = 60
@@ -55,7 +57,12 @@ function setup(){
     y = 100
     for (var c=1; c<table.getColumnCount(); c++){
       var value = table.getNum(r, c)
-      text(value, x, y)
+      // text(value, x, y)
+      var cntry = table.columns[c]
+      var clr = palette.colorForValue(cntry)
+      fill(clr)
+
+      circle(x, y, value)
       y += rowHeight
     }
     x += colWidth
