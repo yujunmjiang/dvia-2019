@@ -46,7 +46,7 @@ function setup(){
 
     // step through all the countries' totals for the year, row by row
     for (var country in data.tests){
-      // draw the * total tests * as an upper semicircle using the palette to set the color by value
+      // draw the * total tests * as a green circle
       var value = totals.tests[country][i]
       var radius = Math.sqrt(60 * value)
       fill(0, 255, 0, 75)
@@ -57,7 +57,7 @@ function setup(){
       // arc(x, y, radius, radius, -PI, 0)
       ellipse(x, y, radius/2)
 
-      // draw the * nuclear electric power * as a lower semicircle using its *negative* value to pick the color
+      // draw the * nuclear electric power * as a red circle
       value = electricPower.tests[country][i]
       radius = Math.sqrt(60 * value)
       fill(255, 0, 0, 75)
@@ -68,7 +68,7 @@ function setup(){
       // arc(x, y, radius, radius, -PI, 0)
       ellipse(x, y*1.5, radius/2)
 
-      // draw the * nuclear share electricity percent * as a lower semicircle using its *negative* value to pick the color
+      // draw the * nuclear share electricity percent * as a yellow circle
       value = electricityShare.tests[country][i]
       radius = Math.sqrt(60 * value)
       fill(255, 255, 0, 75)
