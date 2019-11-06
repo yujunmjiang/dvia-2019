@@ -49,7 +49,7 @@ function setup(){
 
     // step through all the countries' totals for the year, row by row
     for (var country in data.tests){
-      // draw the * atmospheric tests * as an upper semicircle using the palette to set the color by value
+      // draw the * atmospheric tests * as an upper rectangle using the palette to set the color by value
       var value = atmospheric.tests[country][i]
       var radius = Math.sqrt(60 * value)
       var color = palette.colorForValue(value)
@@ -57,7 +57,7 @@ function setup(){
       // ellipse(x, y, radius)
       rect(x, y*1.5, 10, -radius)
 
-      // draw the * nuclear electric power * as a lower semicircle using its *negative* value to pick the color
+      // draw the * nuclear electric power * as a lower rectangle using its *negative* value to pick the color
       value = electricPower.tests[country][i]
       radius = Math.sqrt(60 * value)
       color = palette.colorForValue(-value)
