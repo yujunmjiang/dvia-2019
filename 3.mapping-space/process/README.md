@@ -1,4 +1,3 @@
 ## Sketch
 
-Listing of the contents of this folder and a prose description of your ideas for how to represent
-the earthquake data geospatially and diagrammatically.
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/3.mapping-space/process/sketch-1.png" width="50%"/>
