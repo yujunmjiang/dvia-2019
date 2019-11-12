@@ -1,5 +1,3 @@
-## Process
+## Sketch
 
-Description of the contents of this folder, a prose description of your ideas for how to represent
-the nuclear testing time series, and links to external data sources you'll be incorporating into
-the project.
+<img src="https://github.com/yujunmjiang/dvia-2019/blob/master/2.mapping-quantities/process/atmospheric-underground.jpg" width="50%"/>
