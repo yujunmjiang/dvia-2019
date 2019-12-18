@@ -128,7 +128,7 @@ function setup() {
     textSize(12)
 
     fill(0, 175, 255)
-    text(`Comparison (latest earthquakes in the past 30 days)`, 20, 470)
+    text(`Magnitude (latest earthquakes in the past 30 days)`, 20, 470)
     fill(255)
     text(`Minimum Magnitude: ${columnMin(tableAll, 'mag')}`, 20, 490)
     text(`Minimum Magnitude Error: ${columnMin(tableAll, 'magError')}`, 320, 490)
@@ -144,7 +144,7 @@ function setup() {
     textSize(12)
 
     fill(255, 50, 0)
-    text(`Comparison (significant earthquakes in the past 30 days)`, 20, 700)
+    text(`Magnitude (significant earthquakes in the past 30 days)`, 20, 700)
     fill(255)
     text(`Minimum Magnitude: ${columnMin(tableSig, 'mag')}`, 20, 720)
     text(`Minimum Magnitude Error: ${columnMin(tableSig, 'magError')}`, 320, 720)
