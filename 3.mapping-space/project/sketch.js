@@ -288,6 +288,7 @@ function addCircles(){
         })
 
         // place the new dot on the map
+        circle.bindPopup(moment(row.get('time')).format('LLLL')).addTo(mymap);
         circle.addTo(mymap);
     }
 }
