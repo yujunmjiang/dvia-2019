@@ -6,6 +6,10 @@
     html, body {
       padding: 0;
       margin: 0;
+      background-color: #000;
+      color: #fff;
+      font-family: 'Arial';
+      scroll-behavior: smooth;
     }
 
     /* default dimensions for the leaflet map */
@@ -14,11 +18,23 @@
       height: 60%;
       z-index: 1;
     }
+
+    #introduction{
+      padding:50px;
+      color:#fff;
+      font-size: 1em;
+    }
   </style>
 </head>
 <body>
+  <img src="img/2008_wenchuan.jpg" style="width:1700px;height:1250px;">
+
   <!-- The container div for our leaflet map -->
   <div id="quake-map"></div>
+
+  <div id='introduction' class='col-8'>
+  <p>The Significant Earthquake Database is a global listing of over 5,700 earthquakes from 2150 BC to the present. A significant earthquake is classified as one that meets at least one of the following criteria: caused deaths, caused moderate damage (approximately $1 million or more), magnitude 7.5 or greater, Modified Mercalli Intensity (MMI) X or greater, or the earthquake generated a tsunami. The database provides information on the date and time of occurrence, latitude and longitude, focal depth, magnitude, maximum MMI intensity, and socio-economic data such as the total number of casualties, injuries, houses destroyed, and houses damaged, and $ dollage damage estimates. References, political geography, and additional comments are also provided for each earthquake. If the earthquake was associated with a tsunami or volcanic eruption, it is flagged and linked to the related tsunami event or significant volcanic eruption.</p>
+  </div>
 
   <!-- load our dependencies and sketch file -->
   <script src="../libraries/leaflet/leaflet.js"></script>

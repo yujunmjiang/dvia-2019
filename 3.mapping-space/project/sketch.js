@@ -253,7 +253,7 @@ function addCircles(){
         })
 
         // place the new dot on the map
-        circle.bindPopup(moment(row.get('time')).format('LLLL')).addTo(mymap);
+        circle.bindPopup('Location: ' + row.get('place') + '<br>Time: ' + moment(row.get('time')).format('LLLL')).addTo(mymap);
         circle.addTo(mymap);
     }
 
@@ -288,7 +288,8 @@ function addCircles(){
         })
 
         // place the new dot on the map
-        circle.bindPopup(moment(row.get('time')).format('LLLL')).addTo(mymap);
+        circle.addTo(mymap);
+        circle.bindPopup('Location: ' + row.get('place') + '<br>Time: ' + moment(row.get('time')).format('LLLL')).addTo(mymap);
         circle.addTo(mymap);
     }
 }
