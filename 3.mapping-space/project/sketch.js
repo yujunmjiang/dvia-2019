@@ -159,7 +159,7 @@ function setup() {
 
     // setup for my comparison
     noFill()
-    strokeWeight(2)
+    strokeWeight(3)
 
     // mag
     stroke(25, 64, 125)
@@ -180,7 +180,7 @@ function setup() {
 
     // setup for my comparison
     noFill()
-    strokeWeight(2)
+    strokeWeight(3)
 
     // mag
     stroke(117, 20, 12)
