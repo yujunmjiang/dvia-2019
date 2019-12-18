@@ -38,7 +38,7 @@ function setup() {
     // setupChart();
 
     // generate a p5 diagram that complements the map, communicating the earthquake data non-spatially
-    createCanvas(window.innerWidth, window.innerHeight+50);
+    createCanvas(window.innerWidth, window.innerHeight+100);
     background(0);
 
 
